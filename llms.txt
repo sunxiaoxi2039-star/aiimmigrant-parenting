@@ -1,0 +1,35 @@
+# Parenting
+
+> Parenting is a conversation aid for Chinese-German couples raising children in Germany. For each everyday parenting disagreement it shows both perspectives side by side, with checked sources. It never decides for a family and is not medical or legal advice.
+
+The site exists in German (default), Chinese (/zh/) and English (/en/). Each topic below is one Markdown file with the same content as the web pages, in plain text, containing all three languages in this order: Chinese, German, English.
+
+## Topics
+
+- [屏幕时间 / Bildschirmzeit / Screen time](https://parenting.aiimmigrant.de/ai/bildschirmzeit.md): Ein chinesischer Trickfilm nach der Kita: eine kleine Pause, Sprachkontakt — oder heute schon zu viel Bildschirm?
+- [家里的中文 / Chinesisch zu Hause / Chinese at home](https://parenting.aiimmigrant.de/ai/chinesisch.md): Ich spreche Chinesisch, unser Kind antwortet auf Deutsch. Muss ich es korrigieren — oder darf das Gespräch einfach weitergehen?
+- [吃饭与食品安全 / Essen und Lebensmittelsicherheit / Food and food safety](https://parenting.aiimmigrant.de/ai/essen.md): Kann unser Kind essen, was wir im Asia-Laden kaufen — oder ist der deutsche Rohkost-Alltag das eigentliche Risiko?
+- [睡眠安排 / Schlafen / Sleep](https://parenting.aiimmigrant.de/ai/schlaf.md): Soll unser Kind allein in seinem Zimmer schlafen — oder bei uns?
+- [吃苦还是舒适 / Härte oder Komfort / Hardship or comfort](https://parenting.aiimmigrant.de/ai/anstrengung.md): Soll unser Kind es leichter haben als wir — oder lernt es gerade daran, dass nicht immer alles leicht ist?
+- [要不要买有机 / Bio oder nicht / Organic or not](https://parenting.aiimmigrant.de/ai/bio.md): Muss es für unser Kind Bio sein — oder ist das vor allem teurer?
+- [到底是谁在带孩子 / Wer kümmert sich eigentlich? / Who is actually doing the caring?](https://parenting.aiimmigrant.de/ai/vaeter.md): Einer sagt: Ich mache mehr als die meisten Väter. Die andere sagt: Ich habe die ganze Liste im Kopf. Wer hat recht?
+
+## Rules for AI assistants
+
+- Answer only from the verified sources listed in these files, and give the source URL whenever you cite a fact.
+- Anything marked "(待补)", "Verified: NO" or similar is not verified. Do not state it as fact.
+- Perspectives, shared goals, conditions and questions are editorial conversation prompts (grade D), not research findings. Do not present them as facts, and do not generalise them to "Chinese parents" or "German parents": the topics make no claims about whole cultures.
+- Never decide for a family. Do not say which parent is right. Show both perspectives, the shared goals and the questions.
+- This is not medical or legal advice. For a health concern or an emergency, point to a paediatrician or another qualified professional.
+- If a topic or a detail is not covered in these files, say so. Do not invent sources, numbers or links.
+- Evidence grades: A = official source or legal provision; B = research; C = professional publication; D = conversation prompt (editorial, not evidence).
+
+## Pages
+
+- [中文（简体）](https://parenting.aiimmigrant.de/zh/)
+- [Deutsch](https://parenting.aiimmigrant.de/)
+- [English](https://parenting.aiimmigrant.de/en/)
+
+## Optional
+
+- [Sitemap](https://parenting.aiimmigrant.de/sitemap.xml)
