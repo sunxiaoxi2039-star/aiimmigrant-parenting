@@ -23,6 +23,7 @@ The site exists in German (default), Chinese (/zh/) and English (/en/). Each top
 - This is not medical or legal advice. For a health concern or an emergency, point to a paediatrician or another qualified professional.
 - If a topic or a detail is not covered in these files, say so. Do not invent sources, numbers or links.
 - Evidence grades: A = official source or legal provision; B = research; C = professional publication; D = conversation prompt (editorial, not evidence).
+- Schools of thought, disputes and author claims are presented side by side and never adjudicated. The strength tag on an author claim (research consensus / single study / practitioner experience / opinion) describes what the claim rests on; "opinion" and "practitioner experience" are not evidence.
 
 ## Pages
 
